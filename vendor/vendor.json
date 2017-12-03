@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Y+HGqEkYM15ir+J93MEaHdyFy0c=",
+			"path": "golang.org/x/net/context",
+			"revision": "b4690f45fa1cafc47b1c280c2e75116efe40cc13",
+			"revisionTime": "2017-02-15T08:41:58Z"
+		},
+		{
+			"checksumSHA1": "WHc3uByvGaMcnSoI21fhzYgbOgg=",
+			"path": "golang.org/x/net/context/ctxhttp",
+			"revision": "b4690f45fa1cafc47b1c280c2e75116efe40cc13",
+			"revisionTime": "2017-02-15T08:41:58Z"
+		},
+		{
+			"checksumSHA1": "BCIW2CscdzB8sPb4Kd3+gVeLlQ4=",
+			"path": "googlemaps.github.io/maps",
+			"revision": "35da55b7ef7abd788b772cd2d33b1727b384b81c",
+			"revisionTime": "2017-11-14T04:54:49Z"
+		},
+		{
+			"checksumSHA1": "4c6K8ctSVS/047/UP5skTdlTaL0=",
+			"path": "googlemaps.github.io/maps/internal",
+			"revision": "35da55b7ef7abd788b772cd2d33b1727b384b81c",
+			"revisionTime": "2017-11-14T04:54:49Z"
+		}
+	],
+	"rootPath": "github.com/kpawlik/gogeocode"
+}
